@@ -55,6 +55,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- Special thanks to [Kanav Bansal]([https://github.com/bansalkanav]) for the guidance and support during development.
+- Special thanks to [Kanav Bansal](https://github.com/bansalkanav) for the guidance and support during development.
 
 
