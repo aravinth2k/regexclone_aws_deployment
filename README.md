@@ -28,5 +28,33 @@ These instructions will help you set up the project on your local machine for de
 ### Installation
 
 1. Clone the repository:
-  ~ git clone https://github.com/aravinth2k/regexclone_aws_deployment/
+   ```bash
+    git clone https://github.com/aravinth2k/regexclone_aws_deployment/
+
+2. Navigate to the project directory:
+   ```bash
+    cd regexclone_aws_deployment
+
+3. Install the dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+   
+4. Run the Flask application:
+   ```bash
+   python3 .
+   
+5. Open your web browser and go to http://localhost:5000 to view the application.
+
+6. Enter a regular expression pattern and text, then click the "Search" button to highlight matches.
+
+7. To validate email addresses separately, click the link provided.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+- Special thanks to [Kanav Bansal]([https://github.com/bansalkanav]) for the guidance and support during development.
+
 
